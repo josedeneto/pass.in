@@ -2,5 +2,60 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
+  box-sizing: border-box;
 }
 
+.container{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 690px;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #ffffff1a;
+  padding: 20px 0px;
+  width: 100%;
+}
+
+form{
+  border-bottom: 1px solid #ffffff1a;
+  padding: 20px 0px;
+}
+fieldset{
+  font-size: 18px;
+  border: none;
+  padding: 0;
+  font-weight: bold;
+}
+
+form > div{
+  margin-top: 10px;
+  display: flex;
+  gap: 12px;
+}
+.input-wrapper{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid #ffffff1a;
+  border-radius: 8px;
+  flex: 1;
+  padding: 8px 12px;
+  color: #C4C4CC;
+}
+input{
+  all: unset;
+}
+
+
+button{
+  background-color: #F48F56;
+  color: #00292e;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  width: fit-content;
+}
