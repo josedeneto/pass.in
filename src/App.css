@@ -58,4 +58,34 @@ button{
   border-radius: 8px;
   font-weight: bold;
   width: fit-content;
+  cursor: pointer;
+  font-size: 14px;
 }
+div>h1{
+  font-size: 16px;
+  font-weight: bold;
+  color: #E1E1E6;
+  margin:20px 0;
+}
+
+.table-container{
+  border: 1px solid #ffffff1a;
+  border-radius: 10px;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+thead th{
+  padding: 6px 16px;
+  font-weight: 500;
+}
+tbody td{
+  padding: 6px 16px;
+  border-top: 1px solid rgba(226, 226, 226, 0.089);
+  font-size: 14px;
+}
+
+
