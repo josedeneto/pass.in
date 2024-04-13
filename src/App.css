@@ -78,11 +78,12 @@ table{
   text-align: left;
 }
 
-thead th{
+.th{
   padding: 6px 16px;
   font-weight: 500;
+  text-align: left;
 }
-tbody td{
+.td{
   padding: 6px 16px;
   border-top: 1px solid rgba(226, 226, 226, 0.089);
   font-size: 14px;
