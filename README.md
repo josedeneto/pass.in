@@ -1,4 +1,4 @@
-# Pass.in - Dashboard
+# Pass.in 
 Link: 
 ![Captura de ecrã 2024-04-13 080002](https://github.com/josedeneto/pass.in/assets/58984566/561c983e-7b74-47a1-b088-597231602617)
 
